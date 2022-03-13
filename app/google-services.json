@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381192805268",
+    "project_id": "straduapp",
+    "storage_bucket": "straduapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192805268:android:186df59b966a249e154d81",
+        "android_client_info": {
+          "package_name": "com.example.stradiotouselessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381192805268-b3tq3o0kam6mi5v7kqnvtcgt1pd6a461.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2-_8HjRI1fhZm8IYFRDTodxGvs962Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192805268-b3tq3o0kam6mi5v7kqnvtcgt1pd6a461.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
