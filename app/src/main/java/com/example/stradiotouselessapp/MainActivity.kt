@@ -16,11 +16,11 @@ class MainActivity : ComponentActivity() {
         setContent {
             StradiotoUselessAppTheme {
                 Surface(color = MaterialTheme.colors.background) {
-                    LoginView()
-                }
-            }
-        }
-    }
+    LoginView()
+}
+}
+}
+}
 }
 
 @Preview(showBackground = true)
