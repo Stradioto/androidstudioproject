@@ -1,0 +1,2 @@
+com/example/stradiotouselessapp/test/BuildConfig.java
+ com.example.stradiotouselessapp.test.BuildConfig

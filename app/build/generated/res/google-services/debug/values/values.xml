@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">381192805268-b3tq3o0kam6mi5v7kqnvtcgt1pd6a461.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">381192805268</string>
+    <string name="google_api_key" translatable="false">AIzaSyDc2-_8HjRI1fhZm8IYFRDTodxGvs962Ow</string>
+    <string name="google_app_id" translatable="false">1:381192805268:android:186df59b966a249e154d81</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDc2-_8HjRI1fhZm8IYFRDTodxGvs962Ow</string>
+    <string name="google_storage_bucket" translatable="false">straduapp.appspot.com</string>
+    <string name="project_id" translatable="false">straduapp</string>
+</resources>
